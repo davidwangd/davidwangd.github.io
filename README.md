@@ -26,6 +26,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```C++
+#include <cstdio>
+#include <cstdlib>
+using namespace std;
+int main(){
+  return 0;
+}
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
