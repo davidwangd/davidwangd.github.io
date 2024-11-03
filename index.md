@@ -2,7 +2,7 @@
 
 ### Blog List
 
-+ [Test](/blog1.html)
++ [Test](/blog)
 + [Test2](/blog2.html)
 
 
