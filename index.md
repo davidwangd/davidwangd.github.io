@@ -1,53 +1,20 @@
 ## Welcome to davidwang's Blog
 
+### Prolog
+
+I've been suffering a tough time of my life and academic career (career may be an embellished word since I have not obtained my Ph.D. degree yet) since the COVID-19 pandemic.
+I think I'm still living under the shadow of the block-down during Dec. 2022 even two years has been passed. To get rid of the depression, I decided to make some change. So I picked up this github's blog server. I'm not expecting anyone to find, or follow this. But still, I will give an effort to write down some of my thinking about Programming, Research, and Meaning of life.
+
+Currently, the blog will have at least three parts:
+
++ My thought of Programming, especially in modern C++ and Haskell.
++ My personal essay: some memorable events or thought of life.
++ Interesting gaming event.
+
+Most of the blogs will be writtern in simplified Chinese.
+
 ### Blog List
 
-+ [Test](/blog)
-+ [Test2](/blog2.html)
-
-
-
-<!-- You can use the [editor on GitHub](https://github.com/davidwangd/davidwangd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-```C++
-#include <cstdio>
-#include <cstdlib>
-using namespace std;
-int main(){
-  return 0;
-}
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidwangd/davidwangd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
++ [Technique in programming](/programming/index)
++ [Essay](/essay/index)
++ [Interesting Game Event](/event/index)
